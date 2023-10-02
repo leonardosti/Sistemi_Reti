@@ -1,0 +1,8 @@
+C:\Users\utente\Desktop\Sistemi_Reti\BinInt\bin\Debug\BinInt.exe.config
+C:\Users\utente\Desktop\Sistemi_Reti\BinInt\bin\Debug\BinInt.exe
+C:\Users\utente\Desktop\Sistemi_Reti\BinInt\bin\Debug\BinInt.pdb
+C:\Users\utente\Desktop\Sistemi_Reti\BinInt\obj\Debug\BinInt.csproj.AssemblyReference.cache
+C:\Users\utente\Desktop\Sistemi_Reti\BinInt\obj\Debug\BinInt.csproj.SuggestedBindingRedirects.cache
+C:\Users\utente\Desktop\Sistemi_Reti\BinInt\obj\Debug\BinInt.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Sistemi_Reti\BinInt\obj\Debug\BinInt.exe
+C:\Users\utente\Desktop\Sistemi_Reti\BinInt\obj\Debug\BinInt.pdb
